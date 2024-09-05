@@ -62,6 +62,8 @@ body {
   font-size: 1.2rem;
   margin-bottom: 20px;
   color: #555;
+  width: 90%;
+    text-align: center;
 }
 
 .home-content button {
@@ -71,6 +73,7 @@ body {
   font-size: 1rem;
   cursor: pointer;
   transition: background-color 0.3s, border 0.3s;
+  justify-content: center;
 }
 
 .home-content button:hover {
@@ -103,11 +106,14 @@ body {
 
   .home-content p {
     font-size: 1rem;
+    width: 90%;
+    text-align: center;
+    
   }
 
   .home-content button {
     font-size: 0.9rem;
-    padding: 8px 16px;
+    justify-content: center;
   }
 }
 
@@ -127,11 +133,13 @@ body {
 
   .home-content p {
     font-size: 0.85rem;
+    width: 90%;
+    text-align: center;
   }
 
   .home-content button {
     font-size: 0.8rem;
-    padding: 6px 14px;
+    justify-content: center;
   }
 }
 

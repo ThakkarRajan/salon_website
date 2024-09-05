@@ -5,6 +5,7 @@ import Contact from '../Contact/Contact';
 import Services from '../Services/Services';
 import Footer from '../Footer/Footer';
 import './Home.css';
+import PriceList from '../Pricelist/Pricelist.js';
 
 const Home = () => {
   return (
@@ -26,7 +27,7 @@ const Home = () => {
 
         {/* Services Section */}
         <Services />
-
+        <PriceList/>
         {/* Testimonials Section */}
         <Testimonials />
 

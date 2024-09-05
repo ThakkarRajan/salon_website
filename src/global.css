@@ -1,0 +1,34 @@
+/* global.css */
+html {
+  scroll-behavior: smooth;
+}
+body {
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f9;
+    color: #404040;
+    scroll-behavior: smooth;
+  }
+  
+  h1, h2, h3 {
+    color: #404040;
+  }
+  
+  a {
+    text-decoration: none;
+    color: inherit;
+  }
+  button{
+    background-color: white;
+    color: #404040;
+  }
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+
+  /* Assuming your navbar height is around 60px */
+section {
+  padding-top: 10vh; /* Adjust based on your navbar's height */
+  margin-top: -10vh  ; /* Offset the padding to maintain the original layout */
+}

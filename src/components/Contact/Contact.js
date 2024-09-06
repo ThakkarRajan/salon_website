@@ -24,7 +24,7 @@ const Contact = () => {
             <p>25 Bamburgh Cir, Scarborough, ON M1W 3W2</p>
           </a>
           <p>Phone: <a href='tel:+14372168449'>+1 (437) 216-8449</a></p>
-          <p>Email: <a href='mailto:lavishlooksalon1@gmail.com'>lavishlooksalon@gmail.com</a></p>
+          <p>Email: <a href='mailto:lavishlookinquiry@gmail.com'>lavishlookinquiry@gmail.com</a></p>
         </div>
       </div>
     </section>
